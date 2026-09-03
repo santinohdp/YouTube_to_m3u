@@ -1,6 +1,8 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
-~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
+~~ FORMAT: <channel name> | <group name> | <tvg-logo> | <tvg-id>
 
+Crónica TV | Noticias |https://camo.githubusercontent.com/b3d0fffe0c9f6737aee4fa9172a96402a551f8c17074da36755adc85f60ca68a/68747470733a2f2f692e696d6775722e636f6d2f6b324b753849622e706e67| CronicaTV.yt
+https://www.youtube.com/c/cronicatv/live   
 
 Ekattor TV Live | Bangla | https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png |
 https://www.youtube.com/channel/UC0ThmWmb7WQATrrDMLQph7Q/live
