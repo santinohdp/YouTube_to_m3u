@@ -1,6 +1,0 @@
-<HTML><HEAD><meta http-equiv="content-type" content="text/html;charset=utf-8">
-<TITLE>302 Moved</TITLE></HEAD><BODY>
-<H1>302 Moved</H1>
-The document has moved
-<A HREF="https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3D8rl1OR7r8c0&amp;q=EgSCg8aNGMiX7dQGIjCr76NU1gnlITZrsp_c8yf61IMHUGWAKmd1h94gX_EHP4i5gQayemuYfTFlbItb37AyAnJSWgFD">here</A>.
-</BODY></HTML>
